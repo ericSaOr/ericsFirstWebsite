@@ -27,5 +27,9 @@ ol {
 a:hover {
 	background-color: purple;
 	border-radius: 25px;
+	padding-left: 100px;
 }
 
+#popup {
+	display: none;
+}
