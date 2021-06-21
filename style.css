@@ -1,6 +1,31 @@
 body {
 	background: #fdd2ef;
-	font-family: "Gill Sans", sans-serif;
-	font-size: small;
 	text-align: center;
 }
+
+#header {
+	border: 3px solid red;
+	border-radius: 25px;
+	background-color: aquamarine;
+
+	font-family: "Gill Sans", sans-serif;
+	font-size: medium;
+	text-align: center;
+}
+
+.pics {
+	border-radius: 25px;
+	text-align: center;
+}
+
+ol {
+	align-content: center;
+	width: 100px;
+	text-align: right;
+}
+
+a:hover {
+	background-color: purple;
+	border-radius: 25px;
+}
+
